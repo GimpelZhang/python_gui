@@ -13,4 +13,6 @@ https://blog.csdn.net/mist99/article/details/80742548 wxpython概述
 
 https://www.cnblogs.com/morries123/p/8568666.html wxpython实例介绍（windows）
 
-https://wiki.wxpython.org/AnotherTutorial wxpython实例介绍（linux）
+https://wiki.wxpython.org/wxPython%20by%20Example wxpython实例介绍（linux）
+
+https://wiki.wxpython.org/AnotherTutorial liux下wxpython简明教程
